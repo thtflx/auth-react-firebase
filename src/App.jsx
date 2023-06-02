@@ -1,7 +1,9 @@
-export default function App() {
+function App() {
   return (
-    <div className="container">
-      Some app.
+    <div>
+      Это приложение.
     </div>
   )
 }
+
+export default App;
